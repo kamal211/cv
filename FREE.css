@@ -1,0 +1,114 @@
+body {
+    /*  The image used  */
+    background-image: url("back2.jpg");
+    background-size: 100%;
+  }
+  
+img {
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    border-radius: 50%;
+}
+
+.main{
+    width: 40%;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.name{
+    position: absolute;
+    left: 43%;
+    top: 4%;
+    font-size:360%;
+}
+.date{
+position:absolute;
+text-align: center;
+top: 37%;
+left: 10%;
+font-size: 190%;
+}
+.ville{
+position:absolute;
+top: 43%;
+left: 7%;
+font-size: 190%;
+}
+.num{
+position: absolute;
+top: 22%;
+left:71%;
+}
+.num p{
+    font-size: 134%;
+}
+.prcr{
+position: absolute;
+top: 49%;
+left: 16%;
+font-size: 190%;
+}
+.cmpt{
+position: absolute;
+top: 55%;
+left:10%;
+font-size: 190%;
+}
+.expr{
+position: absolute;
+top: 14%;
+left: 32%;
+font-size: 144%;;
+}
+.lsr{
+position: absolute;
+top: 80%;
+left: 25%;
+font-size: 190%;
+}
+
+table{
+    position: absolute;
+   left: 38%;
+   top: 70%;
+    border-collapse: collapse;
+    color: white;
+    font-size: 134%;
+}
+th, td {
+    border: 1px solid rgb(252, 252, 252);
+  }
+.lng1{
+  position: absolute;
+left: 24%;
+top: 65%;
+font-size: 190%;
+}
+  
+
+
+.big{
+font-size: 1em;
+padding-left: 1.5em;
+
+}
+.quick {
+position: absolute;
+  top: 59%;
+left: 35%;
+font-size: 154%;
+}
+.lsr1{
+  position: absolute;
+  top: 84%;
+  left: 35%;
+font-size: 125%;
+}
+  
+a {
+color: inherit;
+font-size:165%;
+}
